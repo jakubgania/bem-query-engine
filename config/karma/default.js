@@ -7,7 +7,8 @@ module.exports = function( config ) {
 
 		plugins: [
 			'karma-*',
-			'@bemquery/karma-sinon-chai'
+			'@bemquery/karma-sinon-chai',
+			'karma-spec-reporter'
 		],
 
 		// frameworks to use
