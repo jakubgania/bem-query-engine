@@ -21,3 +21,7 @@ bower install bemquery-package-boilerplate
 ## Documentation
 
 Docs are available at http://bemquery.github.io/bemquery-package-boilerplate
+
+## Information
+
+project based on the book
